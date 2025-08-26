@@ -1,7 +1,8 @@
-#Análise de Dados com Python
-Este é um projeto de análise de dados desenvolvido com Python, com o objetivo de praticar e demonstrar meu aprendizado contínuo em ciência de dados e programação.
+# **Análise de Dados com Python**
 
-#Objetivo
+Este é um projeto de análise de dados desenvolvido com Python, com o objetivo de praticar e demonstrar meu aprendizado contínuo em ciência de dados e programação.
+_________________________________________________________________________________________________________________________________
+## **Objetivo**
 O principal objetivo deste projeto é aplicar conceitos básicos e intermediários de:
 
 - Manipulação de dados com pandas
@@ -10,25 +11,25 @@ O principal objetivo deste projeto é aplicar conceitos básicos e intermediári
 - Exploração de dados e insights simples
 - Progresso
 - Este projeto faz parte do meu portfólio de estudos. Ele será atualizado conforme eu for aprendendo novas técnicas e ferramentas.
+_________________________________________________________________________________________________________________________________
+## **Estrutura do Projeto**
 
-#Estrutura do Projeto
 NBA-python/ dados/ -datasets.csv
-
 notebooks/ -DatasetNBA.ipynb
-
 README.md -requirements.txt
+_________________________________________________________________________________________________________________________________
+### **Observações**
 
-#Observações
-Os dados utilizados são públicos e foram baixados de [fonte aqui].
+Os dados utilizados são públicos e foram baixados de [https://www.nba.com/stats].
 Este projeto é voltado para fins educacionais.
 Próximos passos
  Limpeza mais avançada dos dados
  Aplicação de modelos simples de Machine Learning
  Organização com scripts Python
 Requiements
+_________________________________________________________________________________________________________________________________
+## **As bibliotecas utilizadas foram:**
 
-#As bibliotecas utilizadas foram:
-
-Matplotlib
-Pandas
+Matplotlib/
+Pandas/
 Seaborn
