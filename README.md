@@ -22,10 +22,11 @@ ________________________________________________________________________________
 
 Os dados utilizados são públicos e foram baixados de [https://www.nba.com/stats].
 Este projeto é voltado para fins educacionais.
-Próximos passos
- Limpeza mais avançada dos dados
- Aplicação de modelos simples de Machine Learning
- Organização com scripts Python
+
+## **Próximos passos**
+Limpeza mais avançada dos dados 
+Aplicação de modelos simples de Machine Learning
+Organização com scripts Python
 Requiements
 _________________________________________________________________________________________________________________________________
 ## **As bibliotecas utilizadas foram:**
